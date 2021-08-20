@@ -1,1 +1,2 @@
 I am inside file-b
+ finally commited
